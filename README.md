@@ -30,13 +30,14 @@ A decentralized notary system that leverages blockchain technology to validate t
 ---
 
 ## 📁 Smart Contract
-
-```solidity
 function storeDocumentHash(bytes32 docHash) public
 function verifyDocumentHash(bytes32 docHash) public view returns (bool, address, uint256)
 
 ## 📸 Transaction Screenshot
 
-![Transaction Screenshot](transaction.png)
+![Transaction Screenshot](screenshot.png)
+
+
+
 
 
