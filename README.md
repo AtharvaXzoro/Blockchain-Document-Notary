@@ -38,6 +38,6 @@ function verifyDocumentHash(bytes32 docHash) public view returns (bool, address,
 
 
 
-## 🔗 Transaction Screenshot
-![transaction screenshot](transaction.png)
-
+## 📸 Transaction Screenshot
+![Transaction Screenshot](transaction.png)
+Add transaction screenshot to README.
