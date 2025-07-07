@@ -35,8 +35,8 @@ A decentralized notary system that leverages blockchain technology to validate t
 function storeDocumentHash(bytes32 docHash) public
 function verifyDocumentHash(bytes32 docHash) public view returns (bool, address, uint256)
 
+## 📸 Transaction Screenshot
 
+![Transaction Screenshot](transaction.png)
 
-
-## 📸 Transaction Screenshot ![Transaction Screenshot](transaction.png)
 
