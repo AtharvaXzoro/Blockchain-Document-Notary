@@ -7,6 +7,7 @@ contract Notary {
         uint256 timestamp;
     }
 
+
     mapping(bytes32 => Document) private documents;
 
     event DocumentNotarized(address indexed owner, bytes32 indexed docHash, uint256 timestamp);
