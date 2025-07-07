@@ -29,8 +29,8 @@ A decentralized notary system that leverages blockchain technology to validate t
 
 ---
 
-## 📁 Contract Address
-0x8951C523CC3BD50D97C17c85C5591Bda9C7f9090
+### 📄 Deployed Contract Address
+`0x8951C523CC3BD50D97C17c85C5591Bda9C7f9090`
 
 
 ## 📸 Transaction Screenshot
